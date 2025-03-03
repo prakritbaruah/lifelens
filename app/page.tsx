@@ -80,7 +80,7 @@ export default function Home() {
                     Caring for your loved ones with dignity and privacy
                   </h1>
                   <p className="max-w-[600px] text-muted-foreground md:text-xl">
-                    LifeLens helps families monitor and care for elderly parents with dementia while preserving their
+                    LifeLens helps families monitor and care for elders with dementia while preserving their
                     privacy and independence.
                   </p>
                 </div>
